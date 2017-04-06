@@ -107,6 +107,18 @@ text-align: center;
 
 }
 
+.floor6{
+text-align: center;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  margin-bottom: 50px;
+  background-image: url("../images/floor6.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
 /* preloader*/
 
 .spinner {
